@@ -1,12 +1,15 @@
 # Scripts
-<h4>This is a collection of some of my contributions to the upcoming game namely "Handy Hank" by GoldThief Studios</h4>
+<h4>This is a collection of some of my contributions to the upcoming game namely <strong>Handy Hank</strong> by <strong>GoldThief Studios</strong></h4>
 
 ## Previews
 <details>
     <summary>Quest System</summary>
     <img src="https://github.com/Nechrito/HandyHank-Utilities/blob/main/Resources/QuestSystemInspector.gif?raw=true">
 </details>
-<br/>
+<details>
+    <summary>Physics</summary>
+    <img src="https://github.com/Nechrito/HandyHank-Utilities/blob/main/Resources/Throwable.gif?raw=true">
+</details>
 
 ## MIT License [<img height="24" width="24" alt="nechrito.org" src="https://cdn.iconscout.com/icon/free/png-256/copyright-92-1130851.png"/>][license]
 
